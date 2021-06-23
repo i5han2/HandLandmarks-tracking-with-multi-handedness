@@ -9,5 +9,4 @@ opencv-contrib-python==4.5.2.54
 opencv-python==4.5.2.54
 protobuf==3.17.3
 psutil==5.8.0
-pycaw==20181226
 six==1.16.0
